@@ -8,7 +8,7 @@ This project is an ETL (Extract, Transform, Load) pipeline that uses the Coinbas
 
 - Extracts data from the Coinbase API
 - Transforms the data to a suitable format
-- Loads the data for visualization
+- Loads the data to a database which is then used for visualization
 - Visualizes the data using Streamlit
 
 ## Installation
