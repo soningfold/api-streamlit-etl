@@ -4,6 +4,8 @@
 
 This project is an ETL (Extract, Transform, Load) pipeline that uses the Coinbase API to pull data on the top 50 cryptocurrencies and some statistics about them. The data is then visualized using Streamlit.
 
+NB: Please run etl.py (in src folder) every 5min.
+
 ## Features
 
 - Extracts data from the Coinbase API
